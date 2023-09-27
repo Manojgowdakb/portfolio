@@ -1,0 +1,47 @@
+/* Add CSS styles for your About Me page here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.about {
+    margin: 20px;
+    overflow: hidden;
+}
+
+.media-container {
+    float: left;
+    width: 50%;
+    text-align: center;
+}
+
+.media-container img {
+    max-width: 100%;
+    height: 500px;
+    width: 90%;
+    margin-top: 20px;
+}
+
+.text {
+    float: right;
+    width: 50%;
+}
+
+.text p {
+    margin: 0 0 20px 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
